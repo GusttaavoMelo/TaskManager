@@ -45,4 +45,5 @@ Além disso, o projeto serve como prática para manipulação de estados com Rea
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/TaskManager.git
+git clone https://github.com/GusttaavoMelo/TaskManager.git
+
